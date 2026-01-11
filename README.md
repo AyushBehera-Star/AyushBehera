@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Live Website
-**URL:** [https://amresh.aediax.com](https://amresh.aediax.com)
+**URL:** [https://ayush-behera-project.web.app](https://ayush-behera-project.web.app)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
@@ -36,7 +36,7 @@
 ```javascript
 {
   "hosting": "Firebase Hosting",
-  "domain": "amresh.aediax.com",
+  "domain": "ayush-behera-project.web.app",
   "ssl": "Automatic by Firebase",
   "cdn": "Firebase CDN",
   "build-tool": "Create React App"
@@ -111,7 +111,7 @@ npm install
 ### 3. Set Up Environment Variables
 Create `.env` file:
 ```env
-REACT_APP_SITE_URL=https://amresh.aediax.com
+REACT_APP_SITE_URL=https://ayush-behera-project.web.app
 REACT_APP_GA_MEASUREMENT_ID=G-XXXXXXXXXX
 ```
 
@@ -150,8 +150,8 @@ npm run deploy
 <title>Amresh Bhuyan | Tech Entrepreneur | Founder & CEO of AediaX</title>
 <meta name="description" content="Amresh Bhuyan is a Tech Entrepreneur, Software Engineer, and Founder & CEO of AediaX Tech Private Limited." />
 <meta property="og:title" content="Amresh Bhuyan | Founder & CEO of AediaX" />
-<meta property="og:url" content="https://amresh.aediax.com" />
-<meta property="og:image" content="https://amresh.aediax.com/og-image.png" />
+<meta property="og:url" content="https://ayush-behera-project.web.app" />
+<meta property="og:image" content="https://ayush-behera-project.web.app/og-image.png" />
 ```
 
 ### XML Sitemap Generation
@@ -203,7 +203,7 @@ npm run submit:sitemap
 
 ### Personal Links
 ```markdown
-- **Portfolio:** [https://amresh.aediax.com](https://amresh.aediax.com)
+- **Portfolio:** [https://ayush-behera-project.web.app](https://ayush-behera-project.web.app)
 - **Company:** [https://aediax.com](https://aediax.com)
 - **GitHub:** [https://github.com/amreshbhuyan](https://github.com/amreshbhuyan)
 - **LinkedIn:** [https://linkedin.com/in/amreshbhuyan](https://linkedin.com/in/amreshbhuyan)
@@ -247,7 +247,7 @@ Role: Founder & CEO, AediaX Tech Private Limited
 Email: amreshbhuyanone@gmail.com
 Official: amreshbhuyan@aediax.com
 Phone: +91 78549 98757 (WhatsApp)
-Website: https://amresh.aediax.com
+Website: https://ayush-behera-project.web.app
 ```
 
 ---
